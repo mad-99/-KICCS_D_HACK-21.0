@@ -1,5 +1,4 @@
 from itertools import permutations
-
 def calcSmoke(l,n):
     smoke = 0
     for i in range(0,n-1):
