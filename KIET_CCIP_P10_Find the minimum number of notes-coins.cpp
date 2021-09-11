@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 int minCoins(int coins[], int m, int V)
 {
     
@@ -8,6 +7,7 @@ int minCoins(int coins[], int m, int V)
  
    
     table[0] = 0;
+    // mad
  
    
     for (int i=1; i<=V; i++)
