@@ -8,6 +8,8 @@ using namespace std;
 
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+
+    
     int n,q;
     cin>>n>>q;
     int a[n][3], b[q][3];
